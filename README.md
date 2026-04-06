@@ -2,4 +2,4 @@
 
 <div align="center">
 
-![image alt]([[https://github.com/THEHELLWEMADE/LIKEATUMOR/blob/b35d700b0b00099b5562c3688ce357ac18231ad4/decoracionTHEHELLWEMADE1.png](https://github.com/THEHELLWEMADE/LIKEATUMOR/blob/main/decoracionTHEHELLWEMADE1.png?raw=true))
+![image alt](https://github.com/THEHELLWEMADE/LIKEATUMOR/blob/e26c69a4420c7dd668a5cc7698a03b448ede7d55/decoracionTHEHELLWEMADE1.png)
